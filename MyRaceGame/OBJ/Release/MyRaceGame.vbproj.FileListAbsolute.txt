@@ -1,0 +1,152 @@
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\bin\Release\chicken.bmp
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\bin\Release\pig.bmp
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\bin\Release\MyRaceGame.exe
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\bin\Release\MyRaceGame.pdb
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\bin\Release\MyRaceGame.xml
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\obj\Release\ResolveAssemblyReference.cache
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\obj\Release\MyRaceGame.g.resources
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\obj\Release\MyRaceGame.frmGame.resources
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\obj\Release\MyRaceGame.frmMenu.resources
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\obj\Release\MyRaceGame.Resources.resources
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\obj\Release\MyRaceGame.frmOptions.resources
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\obj\Release\MyRaceGame.frmPause.resources
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\obj\Release\MyRaceGame.vbproj.GenerateResource.Cache
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\obj\Release\MyRaceGame.exe
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\obj\Release\MyRaceGame.xml
+G:\My Documents\Visual Studio 2008\Projects\UltimateRacegame - Copy\MyRaceGame\obj\Release\MyRaceGame.pdb
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\bin\Release\chicken.bmp
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\bin\Release\pig.bmp
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\bin\Release\MyRaceGame.exe
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\bin\Release\MyRaceGame.pdb
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\bin\Release\MyRaceGame.xml
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\obj\Release\ResolveAssemblyReference.cache
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\obj\Release\MyRaceGame.g.resources
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\obj\Release\MyRaceGame.frmGame.resources
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\obj\Release\MyRaceGame.frmMenu.resources
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\obj\Release\MyRaceGame.Resources.resources
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\obj\Release\MyRaceGame.frmOptions.resources
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\obj\Release\MyRaceGame.frmPause.resources
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\obj\Release\MyRaceGame.test.resources
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\obj\Release\MyRaceGame.vbproj.GenerateResource.Cache
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\obj\Release\MyRaceGame.exe
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\obj\Release\MyRaceGame.xml
+G:\My Documents\Visual Studio 2008\Projects\RaceGame - Copy\MyRaceGame\obj\Release\MyRaceGame.pdb
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\bin\Release\chicken.bmp
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\bin\Release\pig.bmp
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\bin\Release\MyRaceGame.exe
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\bin\Release\MyRaceGame.pdb
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\bin\Release\MyRaceGame.xml
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\ResolveAssemblyReference.cache
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.g.resources
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmGame.resources
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmMenu.resources
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.Resources.resources
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmOptions.resources
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmPause.resources
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.test.resources
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.vbproj.GenerateResource.Cache
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.exe
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.xml
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.pdb
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\bin\Release\MyRaceGame.exe.manifest
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\bin\Release\MyRaceGame.application
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.exe.manifest
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.application
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+G:\My Documents\Visual Studio 2008\Projects\Racing Games\Task 5 RaceGame\MyRaceGame\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.exe.manifest
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.application
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.exe
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.pdb
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.xml
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmGame.resources
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmMenu.resources
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.Resources.resources
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmOptions.resources
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmPause.resources
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.vbproj.GenerateResource.Cache
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.exe.manifest
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.application
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.exe
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.xml
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.pdb
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\RedChicken128.gif
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\BlueChicken128.gif
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\GreenChicken128.gif
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\YellowChicken128.gif
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\help.html
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\redblackyellow.ico
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\helpstyle.css
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\favicon.png
+C:\Users\zaqq\SkyDrive\College\Visual Basic Projects\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\favicon.ico
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\frmGame.jpg
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\help\favicon.ico
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\help.html
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\help\helpstyle.css
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.exe.manifest
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.application
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.exe
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.pdb
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.xml
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\ResolveAssemblyReference.cache
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.g.resources
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmGame.resources
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmHelp.resources
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmMenu.resources
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.Resources.resources
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmOptions.resources
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmPause.resources
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.vbproj.GenerateResource.Cache
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.exe.manifest
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.application
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.exe
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.xml
+G:\My Documents\Downloads\Task7offlinehelp\For Task 7\For Task 7\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.pdb
+G:\Desktop\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\frmGame.jpg
+G:\Desktop\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\help\favicon.ico
+G:\Desktop\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\help.html
+G:\Desktop\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\g1.png
+G:\Desktop\Task 5 RaceGame\MyRaceGame\bin\Release\Resources\help\helpstyle.css
+G:\Desktop\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.exe.manifest
+G:\Desktop\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.application
+G:\Desktop\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.exe
+G:\Desktop\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.pdb
+G:\Desktop\Task 5 RaceGame\MyRaceGame\bin\Release\Chicken Racer.xml
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\ResolveAssemblyReference.cache
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.g.resources
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmGame.resources
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmHelp.resources
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmHowTo.resources
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmMenu.resources
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.Resources.resources
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmOptions.resources
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.frmPause.resources
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\MyRaceGame.vbproj.GenerateResource.Cache
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.exe.manifest
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.application
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.exe
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.xml
+G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.pdb
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\frmGame.jpg
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help\favicon.ico
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help.html
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help\helpstyle.css
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.exe.manifest
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.application
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.exe
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.pdb
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.xml
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.g.resources
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmGame.resources
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmHelp.resources
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmHowTo.resources
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmMenu.resources
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.Resources.resources
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmOptions.resources
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmPause.resources
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.vbproj.GenerateResource.Cache
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.exe.manifest
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.application
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.exe
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.xml
+\\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.pdb
