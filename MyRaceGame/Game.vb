@@ -147,7 +147,7 @@
     'When the user presses keys while a Betting textbox is active. Checks the ascii code for each key the user presses.
     'Only allows for numbers 0-9 to be pressed with their ascii codes being from 48 to 57.
     'Also allows users to delete their bet by using the backspace key which has the ascii code of 8.
-    Private Sub Dissalow_illigal_Characters(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) _
+    Private Sub Dissalow_illigal_Characters(ByVal sender As System.Object, ByVal e As KeyPressEventArgs) _
  Handles txtPlayer4Bet.KeyPress, txtPlayer3Bet.KeyPress, txtPlayer2Bet.KeyPress, txtPlayer1Bet.KeyPress
         If (Asc(e.KeyChar) < 48) Or (Asc(e.KeyChar) > 57) Then
             e.Handled = True

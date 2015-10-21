@@ -150,3 +150,27 @@ G:\Desktop\Task 5 RaceGame\MyRaceGame\obj\Release\Chicken Racer.pdb
 \\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.exe
 \\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.xml
 \\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.pdb
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.g.resources
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmGame.resources
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmHelp.resources
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmHowTo.resources
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmMenu.resources
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.Resources.resources
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmOptions.resources
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmPause.resources
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.vbproj.GenerateResource.Cache
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.exe
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.xml
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.pdb
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\frmGame.jpg
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help\favicon.ico
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help.html
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help\helpstyle.css
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.exe.manifest
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.application
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.exe
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.pdb
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.xml
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.exe.manifest
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.application
