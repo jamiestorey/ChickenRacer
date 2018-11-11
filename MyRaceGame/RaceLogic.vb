@@ -218,19 +218,20 @@
             Debug.Print(ex.ToString())
         End Try
         '---Start of player movement. Set the players speed and which player to move.
-        speed = 10
+        speed = 25
         playerToMove = Int(4 * Rnd() + 1)
-        movement = Int(speed * Rnd())
+        movement = Int(speed * Rnd(132) + 2)
         'Chooses which player to move.
         Select Case playerToMove
             Case 1
-                frmGame.picPlayer1.Left += movement * Math.PI * Math.Sqrt(Math.PI) / Math.Abs(2)
+                frmGame.picPlayer1.Left += movement
+                Debug.Print(movement * Math.PI * Math.Sqrt(Math.PI) / Math.Abs(2))
             Case 2
-                frmGame.picPlayer2.Left += movement * Math.PI * Math.Sqrt(Math.PI) / Math.Abs(2)
+                frmGame.picPlayer2.Left += movement
             Case 3
-                frmGame.picPlayer3.Left += movement * Math.PI * Math.Sqrt(Math.PI) / Math.Abs(2)
+                frmGame.picPlayer3.Left += movement
             Case 4
-                frmGame.picPlayer4.Left += movement * Math.PI * Math.Sqrt(Math.PI) / Math.Abs(2)
+                frmGame.picPlayer4.Left += movement
         End Select
         'Checks if player 1 won the race.
         If player1Pos >= frmGame.linFinish.X1 Then

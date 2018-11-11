@@ -360,7 +360,7 @@ h1 {
 </member>
 <member name="M:MyRaceGame.Player.SetOdds">
  <summary>
- Sets the Odds of each player using random numbers.
+ Sets the Odds of each player to 9.
  </summary>
 </member>
 <member name="M:MyRaceGame.Player.ResetGuesses">

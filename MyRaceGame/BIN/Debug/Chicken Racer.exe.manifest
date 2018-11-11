@@ -58,14 +58,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Chicken Racer.exe" size="780800">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Chicken Racer.exe" size="780288">
       <assemblyIdentity name="Chicken Racer" version="2.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>YYZ5pgzCjfFhD6r/wKZ2SZlx9ts=</dsig:DigestValue>
+        <dsig:DigestValue>XqQjLYFFyOC2HP8WO/iCayTHUOI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
