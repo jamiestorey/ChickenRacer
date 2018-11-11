@@ -174,3 +174,80 @@ D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken
 D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
 D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.exe.manifest
 D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.application
+D:\Dropbox\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.vbprojResolveAssemblyReference.cache
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\frmGame.jpg
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help\favicon.ico
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help.html
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help\helpstyle.css
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.exe.manifest
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.application
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.exe
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.pdb
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.xml
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.vbprojResolveAssemblyReference.cache
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.g.resources
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmGame.resources
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmHelp.resources
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmHowTo.resources
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmMenu.resources
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.Resources.resources
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmOptions.resources
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmPause.resources
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.vbproj.GenerateResource.Cache
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.exe.manifest
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.application
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.exe
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.xml
+D:\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.pdb
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\frmGame.jpg
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help\favicon.ico
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help.html
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help\helpstyle.css
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.exe.manifest
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.application
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.exe
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.pdb
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.xml
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.g.resources
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmGame.resources
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmHelp.resources
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmHowTo.resources
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmMenu.resources
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.Resources.resources
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmOptions.resources
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmPause.resources
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.vbproj.GenerateResource.Cache
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.exe.manifest
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.application
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.exe
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.xml
+D:\Users\zaqqaz130\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.pdb
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\frmGame.jpg
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help\favicon.ico
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help.html
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Resources\help\helpstyle.css
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.exe.manifest
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.application
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.exe
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.pdb
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Release\Chicken Racer.xml
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.vbprojAssemblyReference.cache
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.g.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmGame.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmHelp.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmHowTo.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmMenu.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.Resources.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmOptions.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.frmPause.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.vbproj.GenerateResource.cache
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.vbproj.CoreCompileInputs.cache
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.exe.manifest
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.application
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\MyRaceGame.vbproj.CopyComplete
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.exe
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.xml
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Release\Chicken Racer.pdb

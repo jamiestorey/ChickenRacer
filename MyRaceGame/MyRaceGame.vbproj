@@ -28,7 +28,6 @@
     <ManifestKeyFile>MyRaceGame_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
     <SignManifests>false</SignManifests>
-    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
     <PublishUrl>C:\Users\zaqq\Documents\netApps\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -107,6 +106,7 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
     <Compile Include="Game.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -194,7 +194,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="My Project\app.manifest" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -235,17 +234,19 @@
   <ItemGroup>
     <PublishFile Include="Microsoft.VisualBasic.PowerPacks">
       <Visible>False</Visible>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
       <Group>
       </Group>
       <TargetPath>
       </TargetPath>
-      <PublishState>Include</PublishState>
-      <IncludeHash>True</IncludeHash>
       <FileType>Assembly</FileType>
     </PublishFile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Microsoft.VisualBasic.PowerPacks.Vs.dll" />
+    <Content Include="Microsoft.VisualBasic.PowerPacks.Vs.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\help\bankrupt.html" />
     <Content Include="Resources\help\betting.html" />
     <Content Include="Resources\help\double_money.html" />
@@ -258,6 +259,7 @@
     <Content Include="Resources\help\overview.html" />
     <Content Include="Resources\help\pausing.html" />
     <Content Include="Resources\help\playernames.html" />
+    <Content Include="TextFile1.txt" />
     <None Include="Resources\leaderboard.png" />
     <None Include="Resources\close.png" />
     <None Include="Resources\helpQuestion.png" />

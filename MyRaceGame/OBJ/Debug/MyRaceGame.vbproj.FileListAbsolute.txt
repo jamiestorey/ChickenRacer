@@ -254,3 +254,30 @@ H:\P\Documents\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\Chicken Ra
 \\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\Chicken Racer.exe
 \\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\Chicken Racer.xml
 \\psf\Dropbox\development\Coding\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\Chicken Racer.pdb
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Debug\Resources\frmGame.jpg
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Debug\Resources\help\favicon.ico
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Debug\Resources\help.html
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Debug\Resources\help\helpstyle.css
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Debug\Chicken Racer.exe.manifest
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Debug\Chicken Racer.application
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Debug\Chicken Racer.exe
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Debug\Chicken Racer.pdb
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\bin\Debug\Chicken Racer.xml
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\MyRaceGame.vbprojAssemblyReference.cache
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\Chicken Racer.g.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\MyRaceGame.frmGame.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\MyRaceGame.frmHelp.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\MyRaceGame.frmHowTo.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\MyRaceGame.frmMenu.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\MyRaceGame.Resources.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\MyRaceGame.frmOptions.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\MyRaceGame.frmPause.resources
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\MyRaceGame.vbproj.GenerateResource.cache
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\MyRaceGame.vbproj.CoreCompileInputs.cache
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\Chicken Racer.exe.manifest
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\Chicken Racer.application
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\MyRaceGame.vbproj.CopyComplete
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\Chicken Racer.exe
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\Chicken Racer.xml
+D:\Users\zaqqaz130\OneDrive\Documents\_My Documents\development\Visual Basic\Chicken Racer\MyRaceGame\obj\Debug\Chicken Racer.pdb
