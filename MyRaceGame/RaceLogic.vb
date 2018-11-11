@@ -225,7 +225,6 @@
         Select Case playerToMove
             Case 1
                 frmGame.picPlayer1.Left += movement
-                Debug.Print(movement * Math.PI * Math.Sqrt(Math.PI) / Math.Abs(2))
             Case 2
                 frmGame.picPlayer2.Left += movement
             Case 3
