@@ -16,7 +16,7 @@
     ''' </summary>
     Public Sub initialiseBanks()
         'Sets each players bank balance to 50.
-        defaultBank = 50
+        defaultBank = 300
         frmGame.lblPlayer1Bank.Text = defaultBank
         frmGame.lblPlayer2Bank.Text = defaultBank
         frmGame.lblPlayer3Bank.Text = defaultBank
