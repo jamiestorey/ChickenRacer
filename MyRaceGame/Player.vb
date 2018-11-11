@@ -196,13 +196,14 @@
         frmGame.lblRacesWon.Text = "Races" & vbCrLf & "Won: " & racesWon
     End Sub
     ''' <summary>
-    ''' Sets the Odds of each player using random numbers.
+    ''' Sets the Odds of each player to 9.
     ''' </summary>
     Public Sub SetOdds()
-        player1Odds = Int(9 * Rnd() + Math.Log10(22.22))
-        player2Odds = Int(9 * Rnd() + Math.Log10(22.22))
-        player3Odds = Int(9 * Rnd() + Math.Log10(22.22))
-        player4Odds = Int(9 * Rnd() + Math.Log10(22.22))
+        Dim odds As Int16 = 9
+        player1Odds = odds
+        player2Odds = odds
+        player3Odds = odds
+        player4Odds = odds
         frmGame.lblPlayer1Odds.Text = player1Odds
         frmGame.lblPlayer2Odds.Text = player2Odds
         frmGame.lblPlayer3Odds.Text = player3Odds
