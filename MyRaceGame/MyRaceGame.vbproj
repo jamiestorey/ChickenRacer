@@ -234,12 +234,12 @@
   <ItemGroup>
     <PublishFile Include="Microsoft.VisualBasic.PowerPacks">
       <Visible>False</Visible>
-      <PublishState>Include</PublishState>
-      <IncludeHash>True</IncludeHash>
       <Group>
       </Group>
       <TargetPath>
       </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
       <FileType>Assembly</FileType>
     </PublishFile>
   </ItemGroup>
@@ -259,7 +259,6 @@
     <Content Include="Resources\help\overview.html" />
     <Content Include="Resources\help\pausing.html" />
     <Content Include="Resources\help\playernames.html" />
-    <Content Include="TextFile1.txt" />
     <None Include="Resources\leaderboard.png" />
     <None Include="Resources\close.png" />
     <None Include="Resources\helpQuestion.png" />
