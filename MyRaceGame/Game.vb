@@ -10,7 +10,7 @@
     End Sub
     'Called when the form Loads
     Private Sub frmGame_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-        Call initialiseBanks()
+        Call InitialiseBanks()
         optBestOf3.Checked = True
         optSpeedNormal.Checked = True
         toolBTNResume.Visible = False

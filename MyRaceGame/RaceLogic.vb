@@ -192,7 +192,7 @@
         Call SetOdds()
         Call NoMoreBets()
         Call Bankrupt()
-        Call isBettingEnabled()
+        Call IsBettingEnabled()
         Call GamesWon()
         Call ResetGuesses()
     End Sub
@@ -246,13 +246,13 @@
             If Player1Double = False Then
                 frmGame.lblPlayer1Bank.Text = Val(frmGame.lblPlayer1Bank.Text) + Val(frmGame.txtPlayer1Bet.Text * player1Odds) _
                     + Val(frmGame.txtPlayer1Bet.Text)
-                Call isBettingEnabled()
+                Call IsBettingEnabled()
                 Call AfterWin()
             Else
                 frmGame.lblPlayer1Bank.Text = Val(frmGame.lblPlayer1Bank.Text) + Val(frmGame.txtPlayer1Bet.Text * player1Odds) _
                     + Val(frmGame.txtPlayer1Bet.Text) * 2
                 Player1Double = False
-                Call isBettingEnabled()
+                Call IsBettingEnabled()
                 Call AfterWin()
             End If
 
@@ -271,13 +271,13 @@
             If Player2Double = False Then
                 frmGame.lblPlayer2Bank.Text = Val(frmGame.lblPlayer2Bank.Text) + Val(frmGame.txtPlayer2Bet.Text * player2Odds) _
                     + Val(frmGame.txtPlayer2Bet.Text)
-                Call isBettingEnabled()
+                Call IsBettingEnabled()
                 Call AfterWin()
             Else
                 frmGame.lblPlayer2Bank.Text = Val(frmGame.lblPlayer2Bank.Text) + Val(frmGame.txtPlayer2Bet.Text * player2Odds) _
                     + Val(frmGame.txtPlayer2Bet.Text) * 2
                 Player2Double = False
-                Call isBettingEnabled()
+                Call IsBettingEnabled()
                 Call AfterWin()
             End If
 
@@ -297,13 +297,13 @@
                 If Player3Double = False Then
                 frmGame.lblPlayer3Bank.Text = Val(frmGame.lblPlayer3Bank.Text) + Val(frmGame.txtPlayer3Bet.Text * player3Odds) _
                         + Val(frmGame.txtPlayer3Bet.Text)
-                Call isBettingEnabled()
+                Call IsBettingEnabled()
                 Call AfterWin()
                 Else
                     frmGame.lblPlayer3Bank.Text = Val(frmGame.lblPlayer3Bank.Text) + Val(frmGame.txtPlayer3Bet.Text * player3Odds) _
                         + Val(frmGame.txtPlayer3Bet.Text) * 2
                 Player3Double = False
-                Call isBettingEnabled()
+                Call IsBettingEnabled()
                 Call AfterWin()
             End If
 
@@ -322,13 +322,13 @@
             If Player4Double = False Then
                 frmGame.lblPlayer4Bank.Text = Val(frmGame.lblPlayer4Bank.Text) + Val(frmGame.txtPlayer4Bet.Text * player4Odds) _
                      + Val(frmGame.txtPlayer4Bet.Text)
-                Call isBettingEnabled()
+                Call IsBettingEnabled()
                 Call AfterWin()
             Else
                 frmGame.lblPlayer4Bank.Text = Val(frmGame.lblPlayer4Bank.Text) + Val(frmGame.txtPlayer4Bet.Text * player4Odds) _
                      + Val(frmGame.txtPlayer4Bet.Text) * 2
                 Player4Double = False
-                Call isBettingEnabled()
+                Call IsBettingEnabled()
                 Call AfterWin()
             End If
         End If

@@ -14,7 +14,7 @@
     ''' <summary>
     ''' Sets the players default bank balance and initialises each PlayerBank Variables.
     ''' </summary>
-    Public Sub initialiseBanks()
+    Public Sub InitialiseBanks()
         'Sets each players bank balance to 50.
         defaultBank = 300
         frmGame.lblPlayer1Bank.Text = defaultBank
@@ -45,7 +45,7 @@
             frmGame.lblPlayer1Bank.Enabled = False
             frmGame.txtPlayer1Bet.Text = "0"
             frmGame.txtPlayer1Bet.Enabled = False
-            Call isBettingEnabled()
+            Call IsBettingEnabled()
         End If
         'Check if Player 2 is bankrupt.
         If Val(frmGame.lblPlayer2Bank.Text) <= 0 And frmGame.lblPlayer2Bank.Enabled = True Then
@@ -56,7 +56,7 @@
             frmGame.lblPlayer2Bank.Enabled = False
             frmGame.txtPlayer2Bet.Text = "0"
             frmGame.txtPlayer2Bet.Enabled = False
-            Call isBettingEnabled()
+            Call IsBettingEnabled()
         End If
         'Check if Player 3 is bankrupt.
         If Val(frmGame.lblPlayer3Bank.Text) <= 0 And frmGame.lblPlayer3Bank.Enabled = True Then
@@ -67,7 +67,7 @@
             frmGame.lblPlayer3Bank.Enabled = False
             frmGame.txtPlayer3Bet.Text = "0"
             frmGame.txtPlayer3Bet.Enabled = False
-            Call isBettingEnabled()
+            Call IsBettingEnabled()
         End If
         'Check if Player 4 is bankrupt.
         If Val(frmGame.lblPlayer4Bank.Text) <= 0 And frmGame.lblPlayer4Bank.Enabled = True Then
@@ -78,14 +78,14 @@
             frmGame.lblPlayer4Bank.Enabled = False
             frmGame.txtPlayer4Bet.Text = "0"
             frmGame.txtPlayer4Bet.Enabled = False
-            Call isBettingEnabled()
+            Call IsBettingEnabled()
         End If
-        Call isBettingEnabled()
+        Call IsBettingEnabled()
     End Sub
     ''' <summary>
     ''' Checks each players bank balance. If a players balance is less than or equal to 0 then disable the players betting textbox, else enable them.
     ''' </summary>
-    Public Sub isBettingEnabled()
+    Public Sub IsBettingEnabled()
         If Val(frmGame.lblPlayer1Bank.Text) <= 0 Then
             frmGame.txtPlayer1Bet.Enabled = False
         Else : frmGame.txtPlayer1Bet.Enabled = True
@@ -115,7 +115,7 @@
             frmGame.txtPlayer4Bet.Enabled = False
             frmGame.btnStart.Enabled = False
             frmGame.btnReset.Enabled = False
-        Else : Call isBettingEnabled()
+        Else : Call IsBettingEnabled()
             frmGame.btnStart.Enabled = True
             frmGame.btnReset.Enabled = True
         End If
@@ -140,7 +140,7 @@
         frmGame.tmrGameSpeed.Enabled = False
         Call SetOdds()
         Call ResetPlayerLocation()
-        Call initialiseBanks()
+        Call InitialiseBanks()
         Call ResetWins()
         Call NoMoreBets()
         Call DisableOptions()
